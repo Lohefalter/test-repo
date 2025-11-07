@@ -1,0 +1,10 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.016 cd .\Downloads\
+   2        1.093 git clone https://github.com/Lohefalter/test-repo.git
+   3        0.011 cd .\test-repo\
+   4        0.017 explorer.exe
+   5        0.015 explorer.exe .
+   6        0.031 history
+
